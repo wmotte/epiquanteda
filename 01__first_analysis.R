@@ -2,7 +2,7 @@
 #
 # W.M. Otte (w.m.otte@umcutrecht.nl)
 #
-# Aim: first analyis of the generated text corpus (toy example (NLP))
+# Aim: first analysis of the generated text corpus (toy example (NLP))
 ################################################################################
 
 # FIRST TIME:
